@@ -268,7 +268,7 @@ function generateCV() {
     <section class="section">
         <h2 class="section-title">Professional Summary</h2>
         <p class="summary">
-            Computer Science graduate (B.Sc. CSE) with strong foundation in programming, application development, and problem-solving. Proficient in Java, Python, C/C++, and Android development with hands-on experience using Firebase and MySQL databases. Developed real-world projects including an AI-powered personal safety application and a web-based health management system. Active competitive programmer with proven analytical and algorithmic skills. Passionate about learning new technologies, building innovative software solutions, and contributing effectively to engineering teams.
+            Computer Science graduate (B.Sc. CSE) with strong foundation in programming, application development, and problem-solving. Proficient in Java, Python, C/C++, JavaScript, and Android development with hands-on experience using Firebase and MySQL databases. Developed real-world projects including an AI-powered personal safety application and a web-based health management system. Active competitive programmer with proven analytical and algorithmic skills. Passionate about learning new technologies, building innovative software solutions, and contributing effectively to engineering teams.
         </p>
     </section>
 
@@ -285,7 +285,7 @@ function generateCV() {
 
     <section class="section">
         <h2 class="section-title">Technical Skills</h2>
-        <div class="skills-line"><strong>Programming Languages:</strong> Java, Python, C, C++</div>
+        <div class="skills-line"><strong>Programming Languages:</strong> Java, Python, C, C++, JavaScript</div>
         <div class="skills-line"><strong>Web Development:</strong> HTML5, CSS3, Bootstrap, PHP, Laravel</div>
         <div class="skills-line"><strong>Mobile Development:</strong> Android Development (Java), Firebase Integration</div>
         <div class="skills-line"><strong>Databases:</strong> MySQL, Firebase Realtime Database</div>
